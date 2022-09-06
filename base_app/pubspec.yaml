@@ -25,7 +25,7 @@ dependencies:
   micro_app_login:
     git:
       url: https://github.com/guiqmaia/micro_app_login.git
-      ref: v1.0.8
+      ref: v1.0.9
   micro_app_stocks:
     git:
       url: https://github.com/guiqmaia/micro_app_stocks.git

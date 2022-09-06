@@ -175,8 +175,8 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "v1.0.8"
-      resolved-ref: "7d00832d90e279a26362d0f6a98700f371e54641"
+      ref: "v1.0.9"
+      resolved-ref: bce6447e2ed1e1412790e4072d2fdf0293623172
       url: "https://github.com/guiqmaia/micro_app_login.git"
     source: git
     version: "0.0.1"
